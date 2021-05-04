@@ -1,0 +1,16 @@
+body {
+text-align: center;
+background-color: rgb(28, 241, 36);
+}
+div {
+margin: 10px;
+width: 48%;
+}
+button{
+    width: 88;
+    margin-top: 10px;
+}
+#showparagraph1 , #showparagraph2 {
+    width: 100%;
+    margin-top: 10px;  
+}
